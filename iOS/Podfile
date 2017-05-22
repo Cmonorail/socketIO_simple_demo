@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'SocketIO_Chat_Example' do
+pod 'Socket.IO-Client-Swift', '~> 8.3.3'    
+end
